@@ -21,7 +21,7 @@ namespace CodePortingCSharp2Java
         /// </summary>
   public string text= "new text here";
   public static string Token = string.Empty;   
-  private int x = 1980;
+  private int x = 1981;
                		
     }
 }
