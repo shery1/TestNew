@@ -479,6 +479,497 @@ namespace CodePortingCSharp2Java
     /// <summary>
     /// 
     /// </summary>
+
+{
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    static public class SigninToken
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static string Token = string.Empty;   
+        public string Test2="here";		
+    }
+
     static public class SigninToken
     {
         /// <summary>
